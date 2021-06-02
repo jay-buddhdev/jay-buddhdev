@@ -3,7 +3,7 @@
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/jay-buddhdev/count.svg)
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=jay-buddhdev&show_icons=true&theme=radical)
+![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jay-buddhdev&show_icons=true&theme=chartreuse-dark)
 
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
