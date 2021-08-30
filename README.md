@@ -49,17 +49,16 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     3 mins              ███████████████████████░░   95.01% 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.99%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GroceList                3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,7 +79,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/08/2021
+ Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
 
 
