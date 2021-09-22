@@ -8,11 +8,11 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 53 Contributions in the Year 2021
  > 
-> 📦 158.0 kB Used in Github's Storage 
+> 📦 158.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,7 +79,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 
