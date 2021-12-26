@@ -8,13 +8,11 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%202%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 53 Contributions in the Year 2021
  > 
-> 📦 158.1 kB Used in GitHub's Storage 
+> 📦 158.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,7 +79,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/12/2021
+ Last Updated on 26/12/2021
 <!--END_SECTION:waka-->
 
 
