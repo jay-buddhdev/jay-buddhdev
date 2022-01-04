@@ -8,8 +8,6 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%202%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
@@ -67,11 +65,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Visual Basic             2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Java                     5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
+Dart                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Visual Basic             2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
@@ -81,7 +79,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 
