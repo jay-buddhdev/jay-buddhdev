@@ -8,6 +8,8 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%202%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
@@ -79,7 +81,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2022 18:44:11 UTC
+ Last Updated on 17/04/2022 18:42:55 UTC
 <!--END_SECTION:waka-->
 
 
