@@ -51,18 +51,16 @@ Sunday       12 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-XML                      22 mins             ████████████████████████░   97.6% 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Android_Demo_Kotlin      20 mins             ███████████████████████░░   92.23% 
-demo_kotlin              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,7 +81,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 18:43:05 UTC
+ Last Updated on 09/05/2022 18:44:57 UTC
 <!--END_SECTION:waka-->
 
 
