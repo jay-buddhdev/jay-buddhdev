@@ -8,7 +8,7 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,16 +51,20 @@ Sunday       12 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   21 mins             ████████████████████░░░░░   80.81% 
+Groovy                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.01% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           26 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Android UI Design        21 mins             ████████████████████░░░░░   80.7% 
+Android_UI_Design        5 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.3%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      26 mins             █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +85,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:46:26 UTC
+ Last Updated on 12/05/2022 18:47:56 UTC
 <!--END_SECTION:waka-->
 
 
