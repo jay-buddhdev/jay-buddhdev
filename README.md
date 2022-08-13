@@ -8,13 +8,13 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 9 Contributions in the Year 2022
  > 
-> 📦 160.4 kB Used in GitHub's Storage 
+> 📦 160.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -51,17 +51,23 @@ Sunday       5 commits      ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 13 mins       ████████████░░░░░░░░░░░░░   50.35% 
-XML                      2 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.65%
+XML                      5 hrs 54 mins       ███████████░░░░░░░░░░░░░░   47.11% 
+Java                     5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.41% 
+Groovy                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
+GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🔥 Editors: 
-Android Studio           4 hrs 25 mins       █████████████████████████   100.0%
+Android Studio           12 hrs 31 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ExpenseManagerJava       4 hrs 25 mins       █████████████████████████   100.0%
+ExpenseManagerJava       11 hrs 53 mins      ███████████████████████░░   94.86% 
+ECommerce                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
+Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
+GroceList                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
 
 💻 Operating System: 
-Mac                      4 hrs 25 mins       █████████████████████████   100.0%
+Mac                      12 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +88,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/08/2022 18:43:02 UTC
+ Last Updated on 13/08/2022 18:43:58 UTC
 <!--END_SECTION:waka-->
 
 
