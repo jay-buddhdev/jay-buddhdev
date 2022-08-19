@@ -8,12 +8,10 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2059%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 9 Contributions in the Year 2022
- > 
 > 📦 160.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -51,20 +49,20 @@ Sunday       5 commits      ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     7 hrs 10 mins       █████████████████░░░░░░░░   68.46% 
-XML                      2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48% 
-Groovy                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.87% 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+Java                     12 hrs 42 mins      █████████████████░░░░░░░░   68.31% 
+XML                      5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   27.08% 
+Groovy                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-Android Studio           10 hrs 27 mins      █████████████████████████   100.0%
+Android Studio           18 hrs 35 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ExpenseManagerJava       10 hrs 8 mins       ███████████████████████░░   95.03% 
-ECommerce                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.97%
+ExpenseManagerJava       18 hrs 7 mins       ████████████████████████░   96.44% 
+ECommerce                40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56%
 
 💻 Operating System: 
-Mac                      10 hrs 27 mins      █████████████████████████   100.0%
+Mac                      18 hrs 35 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +83,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jay-buddhdev/jay-buddhdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 18:44:33 UTC
+ Last Updated on 19/08/2022 18:48:41 UTC
 <!--END_SECTION:waka-->
 
 
